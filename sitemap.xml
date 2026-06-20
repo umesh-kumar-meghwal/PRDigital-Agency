@@ -5,31 +5,27 @@
   <url>
     <loc>https://www.prdigitalagency.com/index.html</loc>
     <lastmod>2026-06-20</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- 2. Services Page -->
   <url>
-    <loc>https://www.prdigitalagency.com/services.html</loc>
+    <loc>https://www.prdigitalagency.com/our-services.html</loc>
     <lastmod>2026-06-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <!-- 3. About Us Page -->
   <url>
     <loc>https://www.prdigitalagency.com/about.html</loc>
     <lastmod>2026-06-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 
   <!-- 4. Contact Us Page -->
   <url>
     <loc>https://www.prdigitalagency.com/contact.html</loc>
     <lastmod>2026-06-20</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
